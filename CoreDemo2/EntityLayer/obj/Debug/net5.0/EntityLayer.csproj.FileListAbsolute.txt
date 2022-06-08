@@ -1,0 +1,12 @@
+C:\Users\AZİZ YUSUF TEKİN\Source\Repos\CoreDemo2\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\AZİZ YUSUF TEKİN\Source\Repos\CoreDemo2\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\AZİZ YUSUF TEKİN\Source\Repos\CoreDemo2\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\AZİZ YUSUF TEKİN\Source\Repos\CoreDemo2\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\AZİZ YUSUF TEKİN\Source\Repos\CoreDemo2\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZİZ YUSUF TEKİN\Source\Repos\CoreDemo2\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\AZİZ YUSUF TEKİN\Source\Repos\CoreDemo2\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\AZİZ YUSUF TEKİN\Source\Repos\CoreDemo2\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\AZİZ YUSUF TEKİN\Source\Repos\CoreDemo2\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\AZİZ YUSUF TEKİN\Source\Repos\CoreDemo2\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\AZİZ YUSUF TEKİN\Source\Repos\CoreDemo2\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\AZİZ YUSUF TEKİN\Source\Repos\CoreDemo2\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
